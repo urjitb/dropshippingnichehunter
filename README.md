@@ -4,10 +4,13 @@ Dropshipping is one of the fastest and the most competative markets of all time.
 
 #Tech stack
 
-Nodejs
-MongoDB
-JQuery
-Express
+-Nodejs
+
+-MongoDB
+
+-JQuery
+
+-Express
 
 # The Problem
 
