@@ -2,7 +2,7 @@
 
 Dropshipping is one of the fastest and the most competative markets of all time. The reason for this is because the barrier for entry in Dropshipping is quite low. A simple look at the google trends for drop shipping shows that its a ever growing trend.
 
-#Tech stack
+# Tech stack
 
 -Nodejs
 
